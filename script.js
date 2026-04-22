@@ -9,10 +9,10 @@ document.addEventListener("DOMContentLoaded", () => {
   
   toggleImageButton.addEventListener("click", () => {
     if (toggled) {
-      gallery.src = "./assets/image1.jpg"; 
+      gallery.src = "./assets/image1.png"; 
       toggled = false;
     } else {
-      gallery.src = "./assets/image2.jpg"; 
+      gallery.src = "./assets/image2.png"; 
       toggled = true;
     }
   });
