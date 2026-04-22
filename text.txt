@@ -1,1 +1,1 @@
-
+the javascript things i had added to my code was mainly a image button and a text button, since those two are the ones i understood the most at the moment. some of the concepts i used was mainly event concepts taken from the past one and written to fit the buttons together and be able to change both text and image.
